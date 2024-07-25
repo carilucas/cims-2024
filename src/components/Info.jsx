@@ -3,7 +3,7 @@ import { useState } from "react"
 
 const Info = () => {
 
-    const [toggleInfo, setToggleInfo] = useState(true);
+    const [toggleInfo, setToggleInfo] = useState(false);
 
     const handleToggle = ()=>{
         setToggleInfo(!toggleInfo)
@@ -18,7 +18,7 @@ const Info = () => {
                 >
                     <span className="f">¿Qué es Score CIMS?</span>
                     <svg data-accordion-icon className={`w-3 h-3 shrink-0 ${toggleInfo && 'rotate-180' }`} aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
-                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5" />
+                        <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5 5 1 1 5" />
                     </svg>
                 </button>
                 {
