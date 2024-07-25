@@ -5,10 +5,10 @@ const Footer = () => {
             <footer className="border-t-[1px] border-slate-200 shadow-md p-5">
                 <div className="w-full max-w-[800px] m-auto flex justify-center items-center gap-3">
                     <div className="logo">
-                        <img src="/public/logo-puce-color.webp" alt="Score CIMS" className="w-[100px]" />
+                        <img src="/logo-puce-color.webp" alt="Score CIMS" className="w-[100px]" />
                     </div>
                     <div className="menu">
-                        <img src="/public/logo-isp-color.webp" alt="Score CIMS" className="w-[100px]" />
+                        <img src="/logo-isp-color.webp" alt="Score CIMS" className="w-[100px]" />
                     </div>
                 </div>
             </footer>

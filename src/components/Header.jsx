@@ -7,7 +7,7 @@ const Header = () => {
             <header className="border-b-[1px] border-slate-200 shadow-md p-2">
                 <div className="w-full max-w-[800px] m-auto flex justify-between items-center">
                     <div className="logo">
-                        <img src="/public/01-logo-cims-color-svg.svg" alt="Score CIMS" className="w-[100px]" />
+                        <img src="/01-logo-cims-color-svg.svg" alt="Score CIMS" className="w-[100px]" />
                     </div>
                     <div className="menu">
                         <div className="flex gap-1 text-slate-600 items-center">
