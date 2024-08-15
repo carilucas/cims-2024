@@ -33,9 +33,6 @@ const Info = () => {
                         <p className="p-3 ms-2 text-sm text-gray-900 mb-4 font-thin">
                             El estudio titulado "Development and validation of a scoring system to predict mortality in patients hospitalized with COVID-19: A retrospective cohort study in two large hospitals in Ecuador" se centra en la creación y validación de un sistema de puntuación destinado a predecir la mortalidad en pacientes hospitalizados debido a COVID-19. Realizado en dos hospitales grandes en Ecuador, el estudio analizó datos de más de 5,000 pacientes, identificando características clínicas y demográficas que influyen en los resultados de salud. Los investigadores utilizaron un enfoque retrospectivo para recopilar información sobre los pacientes, lo que les permitió identificar factores de riesgo significativos asociados con la mortalidad.
                         </p>
-                        <p className="p-3 ms-2 text-sm text-gray-900 mb-4 font-thin">
-                            El estudio titulado "Development and validation of a scoring system to predict mortality in patients hospitalized with COVID-19: A retrospective cohort study in two large hospitals in Ecuador" se centra en la creación y validación de un sistema de puntuación destinado a predecir la mortalidad en pacientes hospitalizados debido a COVID-19. Realizado en dos hospitales grandes en Ecuador, el estudio analizó datos de más de 5,000 pacientes, identificando características clínicas y demográficas que influyen en los resultados de salud. Los investigadores utilizaron un enfoque retrospectivo para recopilar información sobre los pacientes, lo que les permitió identificar factores de riesgo significativos asociados con la mortalidad.
-                        </p>
                     </>
                 }
             </div>

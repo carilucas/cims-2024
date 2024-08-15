@@ -182,7 +182,7 @@ const Form = () => {
                                 />
                             </div>
                             <label htmlFor="astalt" className=" ms-2 text-sm text-gray-900">
-                                Radio AST/ALT &gt; 1
+                                Razón AST/ALT &gt; 1
                             </label>
                         </div>
                     </div>
@@ -228,7 +228,7 @@ const Form = () => {
                                 />
                             </div>
                             <label htmlFor="globulosBlancos" className=" ms-2 text-sm text-gray-900">
-                                Conteo de glóbulos blancos &gt; 10 x 10<sup>3</sup>/uL
+                                Conteo de glóbulos blancos &gt; 10,000/µL ( &gt; 10 x 10<sup>3</sup>/uL )
                             </label>
                         </div>
                     </div>
