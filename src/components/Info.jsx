@@ -39,7 +39,7 @@ const Info = () => {
             <div className="m-auto w-full max-w-[800px]">
                 <h4 className="text-gray-900 text-sm font-bold mt-5 mb-2">Bibliografía científica de base:</h4>
                 <p className="text-sm text-gray-900 mb-4 font-thin">
-                    Dueñas-Espín, M. Echeverría-Mora, C. Montenegro-Fárez, M. Baldeón, L. Chantong-Villacres, H. Espejo-Cárdenas, et al., Development and validation of a scoring system to predict mortality in patients hospitalized with COVID-19: a retrospective cohort study in two large hospitals in, PLoS One. 1 (2023) 1–21. <a href="https://doi.org/10.1371/journal.pone.0288106" target="_blank" rel="noopener noreferrer">https://doi.org/10.1371/journal.pone.0288106</a>.
+                    I. Dueñas-Espín, M. Echeverría-Mora, C. Montenegro-Fárez, M. Baldeón, L. Chantong-Villacres, H. Espejo-Cárdenas, et al., Development and validation of a scoring system to predict mortality in patients hospitalized with COVID-19: a retrospective cohort study in two large hospitals in, PLoS One. 1 (2023) 1–21. <a href="https://doi.org/10.1371/journal.pone.0288106" target="_blank" rel="noopener noreferrer">https://doi.org/10.1371/journal.pone.0288106</a>.
 
                 </p>
             </div>
