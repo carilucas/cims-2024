@@ -52,8 +52,8 @@ const Form = () => {
                             })}
                         >
                             <option value={''}>Elija una opción</option>
-                            <option value="6">Masculino</option>
-                            <option value="0">Femenino</option>
+                            <option value="6">Hombre</option>
+                            <option value="0">Mujer</option>
                         </select>
                         {
                             errors.form?.sexo &&
@@ -93,7 +93,7 @@ const Form = () => {
                                 />
                             </div>
                             <label htmlFor="hipoxemia" className="ms-2 text-sm text-gray-900">
-                                Paciente presenta Hipoxemia. (Hipoxemia se define como una Sat O₂ al ingreso &lt; 95% en Guayaquil y &gt;  92% en Quito.)
+                                Paciente presenta Hipoxemia. (Hipoxemia se define como una Sat O₂ al ingreso &lt; 95% en Guayaquil y &lt;  92% en Quito.)
                             </label>
                         </div>
                     </div>
